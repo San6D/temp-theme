@@ -3,5 +3,5 @@
 
 I am some text
 
-- [back to home](https://san6d.github.io/temp-theme/)
+- [back to home](README.md)
 
