@@ -1,6 +1,6 @@
 ## The great TEMP store
 
-why not jump to [Chapter 2](chapter2.md)
+why not jump to [Chapter 2](chapter2.html)
 
 You can use the [editor on GitHub](https://github.com/San6D/temp-theme/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
